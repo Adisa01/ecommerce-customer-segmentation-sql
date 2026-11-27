@@ -19,3 +19,8 @@ Raw e-commerce order data often contains inconsistent text formatting, missing s
 - **VIP Tier:** Lifetime spend greater than or equal to $1,000
 - **Regular Tier:** Lifetime spend from $400 to $999.99
 - **Low Spender:** Lifetime spend below $400
+
+- ## Key Business Findings
+- **VIP Revenue Concentration:** VIP Tier customers represent **33.3% of the customer base** (2 of 6 customers) but generate **73.5% of total revenue** ($3,650.00 out of $4,965.00).
+- **Retention Opportunity:** Moving even one Regular Tier customer ($700.00 spend) into the VIP Tier ($1,000+ threshold) represents a high-ROI campaign target.
+- **Excel Deliverable:** See `vip_customer_analysis.xlsx` for the Pivot Table and visual breakdown by customer tier.
